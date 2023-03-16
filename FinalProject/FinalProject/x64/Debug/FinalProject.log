@@ -1,0 +1,9 @@
+﻿  Additional.cpp
+  Corrector.cpp
+  Main.cpp
+C:\Users\Игорь\source\repos\FinalProject\FinalProject\Main.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Игорь\source\repos\FinalProject\FinalProject\Main.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Игорь\source\repos\FinalProject\FinalProject\Main.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Mover.cpp
+  Создание кода...
+  FinalProject.vcxproj -> C:\Users\Игорь\source\repos\FinalProject\x64\Debug\FinalProject.exe
